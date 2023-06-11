@@ -1,0 +1,1 @@
+accuracy/top1: 62.4533  accuracy/top5: 85.1159  data_time: 0.2905  time: 0.3914 
